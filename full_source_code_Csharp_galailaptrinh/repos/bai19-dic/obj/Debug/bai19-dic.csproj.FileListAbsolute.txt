@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\bin\Debug\bai19-dic.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\bin\Debug\bai19-dic.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\bin\Debug\bai19-dic.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\obj\Debug\bai19-dic.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\obj\Debug\bai19-dic.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\obj\Debug\bai19-dic.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\obj\Debug\bai19-dic.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai19-dic\obj\Debug\bai19-dic.pdb

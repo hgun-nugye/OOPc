@@ -1,0 +1,14 @@
+D:\65131234_NguyenThiThanhHuong\KT_CuoiKy\bin\Debug\KT_CuoiKy.exe.config
+D:\65131234_NguyenThiThanhHuong\KT_CuoiKy\bin\Debug\KT_CuoiKy.exe
+D:\65131234_NguyenThiThanhHuong\KT_CuoiKy\bin\Debug\KT_CuoiKy.pdb
+D:\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.csproj.AssemblyReference.cache
+D:\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.csproj.CoreCompileInputs.cache
+D:\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.exe
+D:\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.pdb
+D:\STUDY\OOP\OOPc\65131234_NguyenThiThanhHuong\KT_CuoiKy\bin\Debug\KT_CuoiKy.exe.config
+D:\STUDY\OOP\OOPc\65131234_NguyenThiThanhHuong\KT_CuoiKy\bin\Debug\KT_CuoiKy.exe
+D:\STUDY\OOP\OOPc\65131234_NguyenThiThanhHuong\KT_CuoiKy\bin\Debug\KT_CuoiKy.pdb
+D:\STUDY\OOP\OOPc\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.csproj.AssemblyReference.cache
+D:\STUDY\OOP\OOPc\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.exe
+D:\STUDY\OOP\OOPc\65131234_NguyenThiThanhHuong\KT_CuoiKy\obj\Debug\KT_CuoiKy.pdb

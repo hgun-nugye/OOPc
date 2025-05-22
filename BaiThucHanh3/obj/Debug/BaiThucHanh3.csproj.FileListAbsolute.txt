@@ -1,0 +1,14 @@
+D:\STUDY\CODE\OOPc\BaiThucHanh3\bin\Debug\BaiThucHanh3.exe.config
+D:\STUDY\CODE\OOPc\BaiThucHanh3\bin\Debug\BaiThucHanh3.exe
+D:\STUDY\CODE\OOPc\BaiThucHanh3\bin\Debug\BaiThucHanh3.pdb
+D:\STUDY\CODE\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.csproj.AssemblyReference.cache
+D:\STUDY\CODE\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.csproj.CoreCompileInputs.cache
+D:\STUDY\CODE\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.exe
+D:\STUDY\CODE\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh3\bin\Debug\BaiThucHanh3.exe.config
+D:\STUDY\OOP\OOPc\BaiThucHanh3\bin\Debug\BaiThucHanh3.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh3\bin\Debug\BaiThucHanh3.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.csproj.AssemblyReference.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.pdb

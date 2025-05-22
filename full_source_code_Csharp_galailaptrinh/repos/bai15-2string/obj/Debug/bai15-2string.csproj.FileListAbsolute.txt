@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\bin\Debug\bai15-2string.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\bin\Debug\bai15-2string.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\bin\Debug\bai15-2string.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\obj\Debug\bai15-2string.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\obj\Debug\bai15-2string.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\obj\Debug\bai15-2string.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\obj\Debug\bai15-2string.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-2string\obj\Debug\bai15-2string.pdb

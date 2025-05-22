@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\bin\Debug\bai11-braek.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\bin\Debug\bai11-braek.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\bin\Debug\bai11-braek.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\obj\Debug\bai11-braek.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\obj\Debug\bai11-braek.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\obj\Debug\bai11-braek.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\obj\Debug\bai11-braek.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-braek\obj\Debug\bai11-braek.pdb

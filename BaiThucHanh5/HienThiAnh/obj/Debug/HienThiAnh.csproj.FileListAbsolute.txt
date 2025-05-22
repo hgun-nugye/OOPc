@@ -1,0 +1,10 @@
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\bin\Debug\HienThiAnh.exe.config
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\bin\Debug\HienThiAnh.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\bin\Debug\HienThiAnh.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\obj\Debug\HienThiAnh.csproj.AssemblyReference.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\obj\Debug\HienThiAnh.imageShow.resources
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\obj\Debug\HienThiAnh.Properties.Resources.resources
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\obj\Debug\HienThiAnh.csproj.GenerateResource.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\obj\Debug\HienThiAnh.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\obj\Debug\HienThiAnh.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh5\HienThiAnh\obj\Debug\HienThiAnh.pdb

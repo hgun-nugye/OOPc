@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\bin\Debug\bai2-1.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\bin\Debug\bai2-1.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\bin\Debug\bai2-1.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\obj\Debug\bai2-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\obj\Debug\bai2-1.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\obj\Debug\bai2-1.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\obj\Debug\bai2-1.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai2-1\obj\Debug\bai2-1.csproj.AssemblyReference.cache

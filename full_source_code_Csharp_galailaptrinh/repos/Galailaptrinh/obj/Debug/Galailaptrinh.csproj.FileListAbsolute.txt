@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\bin\Debug\Galailaptrinh.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\bin\Debug\Galailaptrinh.exe
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\bin\Debug\Galailaptrinh.pdb
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\obj\Debug\Galailaptrinh.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\obj\Debug\Galailaptrinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\obj\Debug\Galailaptrinh.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\obj\Debug\Galailaptrinh.exe
+C:\Users\GaLaiLapTrinh\source\repos\Galailaptrinh\obj\Debug\Galailaptrinh.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec87e619-ac6c-4cfa-a088-c58791d7abe5": {
+      "ProjectGuid": "ec87e619-ac6c-4cfa-a088-c58791d7abe5",
+      "DisplayName": "bai16",
+      "ColorIndex": 0
+    },
+    "ebca9483-c132-4fee-a267-83c1be9a02c5": {
+      "ProjectGuid": "ebca9483-c132-4fee-a267-83c1be9a02c5",
+      "DisplayName": "bai16-viduvandung",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

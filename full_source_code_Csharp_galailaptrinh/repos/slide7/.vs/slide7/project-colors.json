@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a8ceb93-c8ad-47bf-9383-96aafc0b2ff9": {
+      "ProjectGuid": "8a8ceb93-c8ad-47bf-9383-96aafc0b2ff9",
+      "DisplayName": "slide7",
+      "ColorIndex": 0
+    },
+    "efb684f1-ab7d-441a-9906-0180c6fc2a3c": {
+      "ProjectGuid": "efb684f1-ab7d-441a-9906-0180c6fc2a3c",
+      "DisplayName": "slide7-baitap",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

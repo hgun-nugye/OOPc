@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\bin\Debug\bai20-ham.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\bin\Debug\bai20-ham.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\bin\Debug\bai20-ham.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\obj\Debug\bai20-ham.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\obj\Debug\bai20-ham.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\obj\Debug\bai20-ham.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\obj\Debug\bai20-ham.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai20-ham\obj\Debug\bai20-ham.pdb

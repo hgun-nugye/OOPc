@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\bin\Debug\bai16-wf.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\bin\Debug\bai16-wf.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\bin\Debug\bai16-wf.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16-wf.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16-wf.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16_wf.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16_wf.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16-wf.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16-wf.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16-wf.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai16-wf\obj\Debug\bai16-wf.pdb

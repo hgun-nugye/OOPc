@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\bin\Debug\bai11-continue.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\bin\Debug\bai11-continue.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\bin\Debug\bai11-continue.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\obj\Debug\bai11-continue.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\obj\Debug\bai11-continue.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\obj\Debug\bai11-continue.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\obj\Debug\bai11-continue.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-continue\obj\Debug\bai11-continue.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\bin\Debug\bai8-1-csharp10.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\bin\Debug\bai8-1-csharp10.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\bin\Debug\bai8-1-csharp10.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\obj\Debug\bai8-1-csharp10.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\obj\Debug\bai8-1-csharp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\obj\Debug\bai8-1-csharp10.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\obj\Debug\bai8-1-csharp10.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai8-1-csharp10\obj\Debug\bai8-1-csharp10.pdb

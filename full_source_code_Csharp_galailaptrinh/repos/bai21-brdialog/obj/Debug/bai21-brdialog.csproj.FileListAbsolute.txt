@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\bin\Debug\bai21-brdialog.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\bin\Debug\bai21-brdialog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\bin\Debug\bai21-brdialog.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21-brdialog.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21-brdialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21_brdialog.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21_brdialog.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21-brdialog.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21-brdialog.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21-brdialog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai21-brdialog\obj\Debug\bai21-brdialog.pdb

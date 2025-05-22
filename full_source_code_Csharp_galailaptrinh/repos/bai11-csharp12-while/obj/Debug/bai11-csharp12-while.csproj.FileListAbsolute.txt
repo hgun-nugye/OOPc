@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\bin\Debug\bai11-csharp12-while.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\bin\Debug\bai11-csharp12-while.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\bin\Debug\bai11-csharp12-while.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\obj\Debug\bai11-csharp12-while.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\obj\Debug\bai11-csharp12-while.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\obj\Debug\bai11-csharp12-while.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\obj\Debug\bai11-csharp12-while.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-csharp12-while\obj\Debug\bai11-csharp12-while.csproj.AssemblyReference.cache

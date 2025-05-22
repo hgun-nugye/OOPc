@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\bin\Debug\bai19-1-giaibaitapc29.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\bin\Debug\bai19-1-giaibaitapc29.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\bin\Debug\bai19-1-giaibaitapc29.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\obj\Debug\bai19-1-giaibaitapc29.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\obj\Debug\bai19-1-giaibaitapc29.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\obj\Debug\bai19-1-giaibaitapc29.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\obj\Debug\bai19-1-giaibaitapc29.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai19-1-giaibaitapc29\obj\Debug\bai19-1-giaibaitapc29.pdb

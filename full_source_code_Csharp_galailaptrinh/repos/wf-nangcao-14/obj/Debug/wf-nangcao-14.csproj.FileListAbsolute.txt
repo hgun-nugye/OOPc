@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\bin\Debug\wf-nangcao-14.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\bin\Debug\wf-nangcao-14.exe
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\bin\Debug\wf-nangcao-14.pdb
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf-nangcao-14.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf-nangcao-14.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf_nangcao_14.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf_nangcao_14.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf-nangcao-14.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf-nangcao-14.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf-nangcao-14.exe
+C:\Users\GaLaiLapTrinh\source\repos\wf-nangcao-14\obj\Debug\wf-nangcao-14.pdb

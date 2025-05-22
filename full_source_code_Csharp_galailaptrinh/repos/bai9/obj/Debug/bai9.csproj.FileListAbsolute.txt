@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai9\bin\Debug\bai9.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai9\bin\Debug\bai9.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai9\bin\Debug\bai9.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai9\obj\Debug\bai9.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai9\obj\Debug\bai9.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai9\obj\Debug\bai9.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai9\obj\Debug\bai9.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai9\obj\Debug\bai9.pdb

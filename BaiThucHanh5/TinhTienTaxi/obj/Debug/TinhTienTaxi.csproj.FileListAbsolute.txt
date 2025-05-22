@@ -1,0 +1,11 @@
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\bin\Debug\TinhTienTaxi.exe.config
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\bin\Debug\TinhTienTaxi.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\bin\Debug\TinhTienTaxi.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.csproj.AssemblyReference.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.form.resources
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.Properties.Resources.resources
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.csproj.GenerateResource.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh5\TinhTienTaxi\obj\Debug\TinhTienTaxi.TablePrice.resources

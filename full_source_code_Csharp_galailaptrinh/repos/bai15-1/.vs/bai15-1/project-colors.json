@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f2f83a7b-f5e5-4243-a34b-6932340ab376": {
+      "ProjectGuid": "f2f83a7b-f5e5-4243-a34b-6932340ab376",
+      "DisplayName": "bai15-1",
+      "ColorIndex": 0
+    },
+    "da76b513-98ee-4872-bd8f-6ec871737091": {
+      "ProjectGuid": "da76b513-98ee-4872-bd8f-6ec871737091",
+      "DisplayName": "bai15-10vidu",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

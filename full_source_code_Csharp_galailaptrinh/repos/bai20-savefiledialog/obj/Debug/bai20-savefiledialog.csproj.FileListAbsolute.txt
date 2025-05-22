@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\bin\Debug\bai20-savefiledialog.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\bin\Debug\bai20-savefiledialog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\bin\Debug\bai20-savefiledialog.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20-savefiledialog.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20-savefiledialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20_savefiledialog.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20_savefiledialog.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20-savefiledialog.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20-savefiledialog.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20-savefiledialog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai20-savefiledialog\obj\Debug\bai20-savefiledialog.pdb

@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\bin\Debug\bai15-10vidu.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\bin\Debug\bai15-10vidu.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\bin\Debug\bai15-10vidu.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\obj\Debug\bai15-10vidu.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\obj\Debug\bai15-10vidu.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\obj\Debug\bai15-10vidu.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\obj\Debug\bai15-10vidu.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-10vidu\obj\Debug\bai15-10vidu.pdb

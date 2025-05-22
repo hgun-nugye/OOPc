@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\bin\Debug\bai15-4-giaibaitapc20.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\bin\Debug\bai15-4-giaibaitapc20.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\bin\Debug\bai15-4-giaibaitapc20.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\obj\Debug\bai15-4-giaibaitapc20.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\obj\Debug\bai15-4-giaibaitapc20.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\obj\Debug\bai15-4-giaibaitapc20.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\obj\Debug\bai15-4-giaibaitapc20.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-4-giaibaitapc20\obj\Debug\bai15-4-giaibaitapc20.pdb

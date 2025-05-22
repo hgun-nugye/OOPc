@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8-bt.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8-bt.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8_bt.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8_bt.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8-bt.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8-bt.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\bin\Debug\slide8-bt.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\bin\Debug\slide8-bt.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\bin\Debug\slide8-bt.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8-bt.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide8-bt\obj\Debug\slide8-bt.pdb

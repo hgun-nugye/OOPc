@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\bin\Debug\bai7-4-doanngaytrongthang.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\bin\Debug\bai7-4-doanngaytrongthang.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\bin\Debug\bai7-4-doanngaytrongthang.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\obj\Debug\bai7-4-doanngaytrongthang.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\obj\Debug\bai7-4-doanngaytrongthang.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\obj\Debug\bai7-4-doanngaytrongthang.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\obj\Debug\bai7-4-doanngaytrongthang.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai7-4-doanngaytrongthang\obj\Debug\bai7-4-doanngaytrongthang.pdb

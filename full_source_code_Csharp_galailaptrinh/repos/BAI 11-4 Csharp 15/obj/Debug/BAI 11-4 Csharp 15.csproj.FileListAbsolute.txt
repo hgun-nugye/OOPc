@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\bin\Debug\BAI 11-4 Csharp 15.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\bin\Debug\BAI 11-4 Csharp 15.exe
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\bin\Debug\BAI 11-4 Csharp 15.pdb
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\obj\Debug\BAI 11-4 Csharp 15.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\obj\Debug\BAI 11-4 Csharp 15.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\obj\Debug\BAI 11-4 Csharp 15.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\obj\Debug\BAI 11-4 Csharp 15.exe
+C:\Users\GaLaiLapTrinh\source\repos\BAI 11-4 Csharp 15\obj\Debug\BAI 11-4 Csharp 15.pdb

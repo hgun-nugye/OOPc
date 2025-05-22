@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\bin\Debug\bai7-3-namnhuan.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\bin\Debug\bai7-3-namnhuan.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\bin\Debug\bai7-3-namnhuan.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\obj\Debug\bai7-3-namnhuan.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\obj\Debug\bai7-3-namnhuan.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\obj\Debug\bai7-3-namnhuan.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\obj\Debug\bai7-3-namnhuan.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai7-3-namnhuan\obj\Debug\bai7-3-namnhuan.pdb

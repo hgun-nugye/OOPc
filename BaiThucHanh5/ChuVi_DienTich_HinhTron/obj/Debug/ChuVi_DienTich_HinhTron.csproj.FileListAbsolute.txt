@@ -1,0 +1,10 @@
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\bin\Debug\ChuVi_DienTich_HinhTron.exe.config
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\bin\Debug\ChuVi_DienTich_HinhTron.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\bin\Debug\ChuVi_DienTich_HinhTron.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\obj\Debug\ChuVi_DienTich_HinhTron.csproj.AssemblyReference.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\obj\Debug\ChuVi_DienTich_HinhTron.CSR.resources
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\obj\Debug\ChuVi_DienTich_HinhTron.Properties.Resources.resources
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\obj\Debug\ChuVi_DienTich_HinhTron.csproj.GenerateResource.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\obj\Debug\ChuVi_DienTich_HinhTron.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\obj\Debug\ChuVi_DienTich_HinhTron.exe
+D:\STUDY\OOP\OOPc\BaiThucHanh5\ChuVi_DienTich_HinhTron\obj\Debug\ChuVi_DienTich_HinhTron.pdb

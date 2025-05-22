@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\bin\Debug\bai15-6-btc22.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\bin\Debug\bai15-6-btc22.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\bin\Debug\bai15-6-btc22.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\obj\Debug\bai15-6-btc22.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\obj\Debug\bai15-6-btc22.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\obj\Debug\bai15-6-btc22.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\obj\Debug\bai15-6-btc22.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-6-btc22\obj\Debug\bai15-6-btc22.pdb

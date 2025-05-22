@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai11\bin\Debug\bai11.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai11\bin\Debug\bai11.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11\bin\Debug\bai11.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11\obj\Debug\bai11.pdb

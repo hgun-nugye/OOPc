@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\bin\Debug\bai17-lv.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\bin\Debug\bai17-lv.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\bin\Debug\bai17-lv.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17-lv.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17-lv.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17_lv.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17_lv.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17-lv.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17-lv.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17-lv.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai17-lv\obj\Debug\bai17-lv.pdb

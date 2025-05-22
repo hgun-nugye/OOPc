@@ -1,0 +1,15 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\bin\Debug\bai-12.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\bin\Debug\bai-12.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\bin\Debug\bai-12.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai-12.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai-12.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai_12.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai_12.frm1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai_12.frm2.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai_12.frm3.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai_12.frm4.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai_12.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai-12.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai-12.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai-12.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai-12\obj\Debug\bai-12.pdb

@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\bin\Debug\bai18-3=giaibtapc26.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\bin\Debug\bai18-3=giaibtapc26.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\bin\Debug\bai18-3=giaibtapc26.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\obj\Debug\bai18-3=giaibtapc26.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\obj\Debug\bai18-3=giaibtapc26.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\obj\Debug\bai18-3=giaibtapc26.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\obj\Debug\bai18-3=giaibtapc26.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3=giaibtapc26\obj\Debug\bai18-3=giaibtapc26.pdb

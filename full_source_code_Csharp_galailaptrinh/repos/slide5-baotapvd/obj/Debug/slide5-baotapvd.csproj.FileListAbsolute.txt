@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\bin\Debug\slide5-baotapvd.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\bin\Debug\slide5-baotapvd.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\bin\Debug\slide5-baotapvd.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5-baotapvd.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5-baotapvd.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5_baotapvd.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5_baotapvd.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5-baotapvd.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5-baotapvd.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5-baotapvd.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide5-baotapvd\obj\Debug\slide5-baotapvd.pdb

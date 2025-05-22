@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\bin\Debug\csharp04.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\bin\Debug\csharp04.exe
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\bin\Debug\csharp04.pdb
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\obj\Debug\csharp04.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\obj\Debug\csharp04.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\obj\Debug\csharp04.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\obj\Debug\csharp04.exe
+C:\Users\GaLaiLapTrinh\source\repos\csharp04\obj\Debug\csharp04.pdb

@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\bin\Debug\bai11-foreach.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\bin\Debug\bai11-foreach.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\bin\Debug\bai11-foreach.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\obj\Debug\bai11-foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\obj\Debug\bai11-foreach.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\obj\Debug\bai11-foreach.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\obj\Debug\bai11-foreach.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-foreach\obj\Debug\bai11-foreach.csproj.AssemblyReference.cache

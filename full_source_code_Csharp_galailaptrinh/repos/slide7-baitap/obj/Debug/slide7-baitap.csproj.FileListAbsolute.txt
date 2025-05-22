@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\bin\Debug\slide7-baitap.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\bin\Debug\slide7-baitap.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\bin\Debug\slide7-baitap.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7-baitap.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7-baitap.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7_baitap.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7_baitap.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7-baitap.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7-baitap.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7-baitap.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide7-baitap\obj\Debug\slide7-baitap.pdb

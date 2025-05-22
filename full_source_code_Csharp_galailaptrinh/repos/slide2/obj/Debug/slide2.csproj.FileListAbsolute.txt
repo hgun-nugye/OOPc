@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide2\bin\Debug\slide2.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide2\bin\Debug\slide2.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide2\bin\Debug\slide2.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide2\obj\Debug\slide2.pdb

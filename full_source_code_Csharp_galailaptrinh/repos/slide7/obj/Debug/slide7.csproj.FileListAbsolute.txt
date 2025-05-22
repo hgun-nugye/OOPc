@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide7\bin\Debug\slide7.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide7\bin\Debug\slide7.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide7\bin\Debug\slide7.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide7\obj\Debug\slide7.pdb

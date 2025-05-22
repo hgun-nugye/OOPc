@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\obj\Debug\bai13-datetime.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\obj\Debug\bai13-datetime.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\bin\Debug\bai13-datetime.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\bin\Debug\bai13-datetime.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\bin\Debug\bai13-datetime.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\obj\Debug\bai13-datetime.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\obj\Debug\bai13-datetime.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai13-datetime\obj\Debug\bai13-datetime.csproj.AssemblyReference.cache

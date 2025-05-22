@@ -1,0 +1,13 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\bin\Debug\bai3-selenium-upanh.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\bin\Debug\bai3-selenium-upanh.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\bin\Debug\bai3-selenium-upanh.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\bin\Debug\WebDriver.dll
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3-selenium-upanh.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3-selenium-upanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3_selenium_upanh.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3_selenium_upanh.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3-selenium-upanh.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3-selenium-upanh.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3-selenium-upanh.csproj.CopyComplete
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3-selenium-upanh.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai3-selenium-upanh\obj\Debug\bai3-selenium-upanh.pdb

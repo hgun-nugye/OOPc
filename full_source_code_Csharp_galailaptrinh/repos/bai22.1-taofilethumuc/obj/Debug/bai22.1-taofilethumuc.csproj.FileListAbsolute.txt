@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\bin\Debug\bai22.1-taofilethumuc.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\bin\Debug\bai22.1-taofilethumuc.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\bin\Debug\bai22.1-taofilethumuc.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22.1-taofilethumuc.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22.1-taofilethumuc.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22._1_taofilethumuc.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22._1_taofilethumuc.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22.1-taofilethumuc.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22.1-taofilethumuc.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22.1-taofilethumuc.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai22.1-taofilethumuc\obj\Debug\bai22.1-taofilethumuc.pdb

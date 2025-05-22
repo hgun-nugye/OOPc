@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f9c9300-0877-41a1-87a0-ad2dce9d5d91": {
+      "ProjectGuid": "2f9c9300-0877-41a1-87a0-ad2dce9d5d91",
+      "DisplayName": "bai11-1-csharp 12",
+      "ColorIndex": 0
+    },
+    "b34a67d7-7f73-42a2-88cf-2431c30060b2": {
+      "ProjectGuid": "b34a67d7-7f73-42a2-88cf-2431c30060b2",
+      "DisplayName": "bai11-csharp12-while",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

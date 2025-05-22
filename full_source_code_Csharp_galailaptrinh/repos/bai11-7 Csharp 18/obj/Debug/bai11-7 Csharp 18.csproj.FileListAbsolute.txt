@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\bin\Debug\bai11-7 Csharp 18.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\bin\Debug\bai11-7 Csharp 18.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\bin\Debug\bai11-7 Csharp 18.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\obj\Debug\bai11-7 Csharp 18.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\obj\Debug\bai11-7 Csharp 18.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\obj\Debug\bai11-7 Csharp 18.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\obj\Debug\bai11-7 Csharp 18.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-7 Csharp 18\obj\Debug\bai11-7 Csharp 18.pdb

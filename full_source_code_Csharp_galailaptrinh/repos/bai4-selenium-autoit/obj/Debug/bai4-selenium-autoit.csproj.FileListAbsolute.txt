@@ -1,0 +1,16 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\bin\Debug\bai4-selenium-autoit.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\bin\Debug\bai4-selenium-autoit.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\bin\Debug\bai4-selenium-autoit.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\bin\Debug\WebDriver.dll
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4_selenium_autoit.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4_selenium_autoit.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.csproj.CopyComplete
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\GaLaiLapTrinh\source\repos\bai4-selenium-autoit\obj\Debug\bai4-selenium-autoit.csproj.ResolveComReference.cache

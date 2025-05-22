@@ -1,0 +1,10 @@
+D:\STUDY\OOP\OOPc\DrawShapes\bin\Debug\DrawShapes.exe.config
+D:\STUDY\OOP\OOPc\DrawShapes\bin\Debug\DrawShapes.exe
+D:\STUDY\OOP\OOPc\DrawShapes\bin\Debug\DrawShapes.pdb
+D:\STUDY\OOP\OOPc\DrawShapes\obj\Debug\DrawShapes.csproj.AssemblyReference.cache
+D:\STUDY\OOP\OOPc\DrawShapes\obj\Debug\DrawShapes.frmDrawShapes.resources
+D:\STUDY\OOP\OOPc\DrawShapes\obj\Debug\DrawShapes.Properties.Resources.resources
+D:\STUDY\OOP\OOPc\DrawShapes\obj\Debug\DrawShapes.csproj.GenerateResource.cache
+D:\STUDY\OOP\OOPc\DrawShapes\obj\Debug\DrawShapes.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\DrawShapes\obj\Debug\DrawShapes.exe
+D:\STUDY\OOP\OOPc\DrawShapes\obj\Debug\DrawShapes.pdb

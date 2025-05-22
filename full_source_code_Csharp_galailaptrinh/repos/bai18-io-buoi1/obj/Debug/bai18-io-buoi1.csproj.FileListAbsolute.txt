@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\bin\Debug\bai18-io-buoi1.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\bin\Debug\bai18-io-buoi1.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\bin\Debug\bai18-io-buoi1.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\obj\Debug\bai18-io-buoi1.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\obj\Debug\bai18-io-buoi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\obj\Debug\bai18-io-buoi1.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\obj\Debug\bai18-io-buoi1.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-io-buoi1\obj\Debug\bai18-io-buoi1.pdb

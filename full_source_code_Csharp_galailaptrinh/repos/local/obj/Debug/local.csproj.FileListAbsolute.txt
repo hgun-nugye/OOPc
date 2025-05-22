@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\local\bin\Debug\local.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\local\bin\Debug\local.exe
+C:\Users\GaLaiLapTrinh\source\repos\local\bin\Debug\local.pdb
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.exe
+C:\Users\GaLaiLapTrinh\source\repos\local\obj\Debug\local.pdb

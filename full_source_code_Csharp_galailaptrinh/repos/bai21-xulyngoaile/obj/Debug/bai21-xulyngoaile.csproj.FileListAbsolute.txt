@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\bin\Debug\bai21-xulyngoaile.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\bin\Debug\bai21-xulyngoaile.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\bin\Debug\bai21-xulyngoaile.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\obj\Debug\bai21-xulyngoaile.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\obj\Debug\bai21-xulyngoaile.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\obj\Debug\bai21-xulyngoaile.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\obj\Debug\bai21-xulyngoaile.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai21-xulyngoaile\obj\Debug\bai21-xulyngoaile.pdb

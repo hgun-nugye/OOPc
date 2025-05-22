@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide9\bin\Debug\slide9.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide9\bin\Debug\slide9.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide9\bin\Debug\slide9.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide9\obj\Debug\slide9.pdb

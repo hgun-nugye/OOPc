@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai6\bin\Debug\bai6.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai6\bin\Debug\bai6.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai6\bin\Debug\bai6.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai6\obj\Debug\bai6.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai6\obj\Debug\bai6.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai6\obj\Debug\bai6.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai6\obj\Debug\bai6.pdb

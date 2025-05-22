@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\bin\Debug\bai16-viduvandung.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\bin\Debug\bai16-viduvandung.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\bin\Debug\bai16-viduvandung.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\obj\Debug\bai16-viduvandung.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\obj\Debug\bai16-viduvandung.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\obj\Debug\bai16-viduvandung.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\obj\Debug\bai16-viduvandung.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai16-viduvandung\obj\Debug\bai16-viduvandung.pdb

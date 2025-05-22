@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\bin\Debug\bai22-oop1.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\bin\Debug\bai22-oop1.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\bin\Debug\bai22-oop1.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\obj\Debug\bai22-oop1.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\obj\Debug\bai22-oop1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\obj\Debug\bai22-oop1.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\obj\Debug\bai22-oop1.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai22-oop1\obj\Debug\bai22-oop1.pdb

@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide5\bin\Debug\slide5.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide5\bin\Debug\slide5.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide5\bin\Debug\slide5.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide5\obj\Debug\slide5.pdb

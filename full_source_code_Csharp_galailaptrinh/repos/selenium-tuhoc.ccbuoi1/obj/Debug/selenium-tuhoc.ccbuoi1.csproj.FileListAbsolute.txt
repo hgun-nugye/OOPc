@@ -1,0 +1,13 @@
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\bin\Debug\selenium-tuhoc.ccbuoi1.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\bin\Debug\selenium-tuhoc.ccbuoi1.exe
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\bin\Debug\selenium-tuhoc.ccbuoi1.pdb
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\bin\Debug\WebDriver.dll
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium-tuhoc.ccbuoi1.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium-tuhoc.ccbuoi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium_tuhoc.ccbuoi1.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium_tuhoc.ccbuoi1.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium-tuhoc.ccbuoi1.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium-tuhoc.ccbuoi1.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium-tuhoc.ccbuoi1.csproj.CopyComplete
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium-tuhoc.ccbuoi1.exe
+C:\Users\GaLaiLapTrinh\source\repos\selenium-tuhoc.ccbuoi1\obj\Debug\selenium-tuhoc.ccbuoi1.pdb

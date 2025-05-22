@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\bin\Debug\bai19-openfiledialog.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\bin\Debug\bai19-openfiledialog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\bin\Debug\bai19-openfiledialog.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19-openfiledialog.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19-openfiledialog.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19_openfiledialog.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19_openfiledialog.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19-openfiledialog.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19-openfiledialog.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19-openfiledialog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai19-openfiledialog\obj\Debug\bai19-openfiledialog.pdb

@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\bin\Debug\bai18-3file.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\bin\Debug\bai18-3file.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\bin\Debug\bai18-3file.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\obj\Debug\bai18-3file.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\obj\Debug\bai18-3file.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\obj\Debug\bai18-3file.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\obj\Debug\bai18-3file.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-3file\obj\Debug\bai18-3file.pdb

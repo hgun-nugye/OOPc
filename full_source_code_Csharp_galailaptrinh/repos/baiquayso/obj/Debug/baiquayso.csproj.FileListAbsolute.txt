@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\bin\Debug\baiquayso.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\bin\Debug\baiquayso.exe
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\bin\Debug\baiquayso.pdb
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.exe
+C:\Users\GaLaiLapTrinh\source\repos\baiquayso\obj\Debug\baiquayso.pdb

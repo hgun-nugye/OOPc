@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\bin\Debug\bai18-2-path.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\bin\Debug\bai18-2-path.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\bin\Debug\bai18-2-path.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\obj\Debug\bai18-2-path.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\obj\Debug\bai18-2-path.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\obj\Debug\bai18-2-path.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\obj\Debug\bai18-2-path.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-2-path\obj\Debug\bai18-2-path.pdb

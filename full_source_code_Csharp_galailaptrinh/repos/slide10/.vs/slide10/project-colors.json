@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7dc1ccff-fed3-47d2-aa3c-5900f236f1fd": {
+      "ProjectGuid": "7dc1ccff-fed3-47d2-aa3c-5900f236f1fd",
+      "DisplayName": "slide10",
+      "ColorIndex": 0
+    },
+    "3245da3b-bb0d-4f06-8eb4-a59c1db64e38": {
+      "ProjectGuid": "3245da3b-bb0d-4f06-8eb4-a59c1db64e38",
+      "DisplayName": "slide10-bt",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

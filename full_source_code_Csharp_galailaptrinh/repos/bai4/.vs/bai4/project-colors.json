@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "791d5861-0d2e-4e7a-b7eb-4e0371733ea4": {
+      "ProjectGuid": "791d5861-0d2e-4e7a-b7eb-4e0371733ea4",
+      "DisplayName": "bai4",
+      "ColorIndex": 0
+    },
+    "7e5ca110-6552-452e-b535-c7ab0ff17fc4": {
+      "ProjectGuid": "7e5ca110-6552-452e-b535-c7ab0ff17fc4",
+      "DisplayName": "bai4-2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

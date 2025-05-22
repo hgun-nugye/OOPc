@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\bin\Debug\bai15-7-btc-23.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\bin\Debug\bai15-7-btc-23.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\bin\Debug\bai15-7-btc-23.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\obj\Debug\bai15-7-btc-23.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\obj\Debug\bai15-7-btc-23.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\obj\Debug\bai15-7-btc-23.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\obj\Debug\bai15-7-btc-23.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-7-btc-23\obj\Debug\bai15-7-btc-23.pdb

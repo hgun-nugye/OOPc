@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\bin\Debug\bai11-2-tinhtong-cs13.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\bin\Debug\bai11-2-tinhtong-cs13.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\bin\Debug\bai11-2-tinhtong-cs13.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\obj\Debug\bai11-2-tinhtong-cs13.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\obj\Debug\bai11-2-tinhtong-cs13.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\obj\Debug\bai11-2-tinhtong-cs13.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\obj\Debug\bai11-2-tinhtong-cs13.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai11-2-tinhtong-cs13\obj\Debug\bai11-2-tinhtong-cs13.pdb

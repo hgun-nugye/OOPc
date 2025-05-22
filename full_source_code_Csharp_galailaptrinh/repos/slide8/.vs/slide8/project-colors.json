@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a698f1e-6d10-478f-b511-3aa6b99e71b7": {
+      "ProjectGuid": "1a698f1e-6d10-478f-b511-3aa6b99e71b7",
+      "DisplayName": "slide8",
+      "ColorIndex": 0
+    },
+    "b93295a2-8cab-4004-bc42-cad8faa6000a": {
+      "ProjectGuid": "b93295a2-8cab-4004-bc42-cad8faa6000a",
+      "DisplayName": "slide8-bt",
+      "ColorIndex": 1
+    },
+    "8c9036fb-05e6-442e-b85a-01afc4b7f32f": {
+      "ProjectGuid": "8c9036fb-05e6-442e-b85a-01afc4b7f32f",
+      "DisplayName": "slide8-bt2",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,8 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\obj\Debug\bai18-4-baitapc27.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\obj\Debug\bai18-4-baitapc27.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\obj\Debug\bai18-4-baitapc27.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\bin\Debug\bai18-4-baitapc27.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\bin\Debug\bai18-4-baitapc27.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\bin\Debug\bai18-4-baitapc27.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\obj\Debug\bai18-4-baitapc27.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai18-4-baitapc27\obj\Debug\bai18-4-baitapc27.pdb

@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\slide3\bin\Debug\slide3.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\slide3\bin\Debug\slide3.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide3\bin\Debug\slide3.pdb
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.exe
+C:\Users\GaLaiLapTrinh\source\repos\slide3\obj\Debug\slide3.pdb

@@ -1,0 +1,11 @@
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\bin\Debug\bai15-prog.exe.config
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\bin\Debug\bai15-prog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\bin\Debug\bai15-prog.pdb
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15-prog.csproj.AssemblyReference.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15-prog.csproj.SuggestedBindingRedirects.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15_prog.Form1.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15_prog.Properties.Resources.resources
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15-prog.csproj.GenerateResource.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15-prog.csproj.CoreCompileInputs.cache
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15-prog.exe
+C:\Users\GaLaiLapTrinh\source\repos\bai15-prog\obj\Debug\bai15-prog.pdb
