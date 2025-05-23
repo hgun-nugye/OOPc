@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Shapes": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
