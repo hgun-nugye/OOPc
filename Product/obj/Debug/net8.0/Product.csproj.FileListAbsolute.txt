@@ -1,0 +1,15 @@
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.AssemblyInfoInputs.cache
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.AssemblyInfo.cs
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.sourcelink.json
+D:\STUDY\OOP\OOPc\Product\bin\Debug\net8.0\Product.exe
+D:\STUDY\OOP\OOPc\Product\bin\Debug\net8.0\Product.deps.json
+D:\STUDY\OOP\OOPc\Product\bin\Debug\net8.0\Product.runtimeconfig.json
+D:\STUDY\OOP\OOPc\Product\bin\Debug\net8.0\Product.dll
+D:\STUDY\OOP\OOPc\Product\bin\Debug\net8.0\Product.pdb
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.dll
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\refint\Product.dll
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.pdb
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\Product.genruntimeconfig.cache
+D:\STUDY\OOP\OOPc\Product\obj\Debug\net8.0\ref\Product.dll
