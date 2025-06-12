@@ -1,87 +1,114 @@
-﻿using System.Drawing;
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
 using System.Windows.Forms;
-using System;
 
 namespace VeHinh
 {
-    public partial class form1 : Form
-    {
-        int x, y, h, w; 
-        Pen p = new Pen(Color.Blue, 2);
-        double shapeArea = 0;
-        double largestArea = 0;
-        Rectangle largestShape = Rectangle.Empty; 
+	public partial class form1 : Form
+	{
+		int x, y, h, w;
+		double shapeArea = 0;
+		double largestArea = 0;
+		Rectangle largestShape = Rectangle.Empty;
+		List<Shape> shapes = new List<Shape>(); // List to store shapes
 
-        private void IsMouseUp(object sender, MouseEventArgs e)
-        {
-            h = e.Y - y; 
-            w = e.X - x;
-            shapeArea = 0; 
+		public form1()
+		{
+			InitializeComponent();
+			this.DoubleBuffered = true;
+		}
 
-            if (Elip.Checked)
-            {
-                shapeArea = (h * w * Math.PI) / 4;
-            }
-            else if (hcn.Checked)
-            {
-                shapeArea = h * w;
-            }
+		// Define a Shape class to hold the rectangle and its type
+		class Shape
+		{
+			public Rectangle Rect { get; set; }
+			public string Type { get; set; }
 
-           
-            if (shapeArea > largestArea)
-            {
-                largestArea = shapeArea;
-                largestShape = new Rectangle(x, y, w, h);
-            }
+			public Shape(Rectangle rect, string type)
+			{
+				Rect = rect;
+				Type = type;
+			}
+		}
 
-            Graphics g = this.CreateGraphics();
-            if (Elip.Checked)
-            {
-                g.DrawEllipse(p, new Rectangle(x, y, w, h));
-            }
-            else if (hcn.Checked)
-            {
-                g.DrawRectangle(p, new Rectangle(x, y, w, h));
-            }
+		protected override void OnPaint(PaintEventArgs e)
+		{
+			base.OnPaint(e);
+			using (Pen pen = new Pen(Color.Blue, 2))
+			{
+				foreach (var shape in shapes)
+				{
+					if (shape.Type == "Ellipse")
+					{
+						e.Graphics.DrawEllipse(pen, shape.Rect);
+					}
+					else if (shape.Type == "Rectangle")
+					{
+						e.Graphics.DrawRectangle(pen, shape.Rect);
+					}
+				}
+			}
+		}
 
-            //MessageBox.Show("Diện tích = " + shapeArea.ToString());
-        }
+		private void IsMouseUp(object sender, MouseEventArgs e)
+		{
+			h = e.Y - y;
+			w = e.X - x;
+			shapeArea = 0;
 
-        private void IsMouseDown(object sender, MouseEventArgs e)
-        {
-            x = e.X;
-            y = e.Y;
-        }
+			if (Elip.Checked)
+			{
+				shapeArea = (h * w * Math.PI) / 4;
+				shapes.Add(new Shape(new Rectangle(x, y, w, h), "Ellipse")); // Store as ellipse
+			}
+			else if (hcn.Checked)
+			{
+				shapeArea = h * w;
+				shapes.Add(new Shape(new Rectangle(x, y, w, h), "Rectangle")); // Store as rectangle
+			}
 
-        private void FillLargestShape()
-        {
-            if (largestShape != Rectangle.Empty)
-            {
-                using (Graphics g = this.CreateGraphics())
-                {
-                    using (SolidBrush brush = new SolidBrush(Color.Yellow)) 
-                    {
-                        if (Elip.Checked) 
-                        {
-                            g.FillEllipse(brush, largestShape);
-                        }
-                        else if (hcn.Checked) 
-                        {
-                            g.FillRectangle(brush, largestShape);
-                        }
-                    }
-                }
-            }
-        }
+			if (shapeArea > largestArea)
+			{
+				largestArea = shapeArea;
+				largestShape = new Rectangle(x, y, w, h);
+			}
 
-        public form1()
-        {
-            InitializeComponent();
-        }
+			Invalidate();
+		}
 
-        private void btnFinish_Click(object sender, EventArgs e) // Add a finish button to fill the largest shape
-        {
-            FillLargestShape();
-        }
-    }
+		private void IsMouseDown(object sender, MouseEventArgs e)
+		{
+			x = e.X;
+			y = e.Y;
+		}
+
+		private void FillLargestShape()
+		{
+			if (largestShape != Rectangle.Empty)
+			{
+				using (Graphics g = this.CreateGraphics())
+				{
+					using (SolidBrush brush = new SolidBrush(Color.Plum))
+					{
+						if (Elip.Checked)
+						{
+							g.FillEllipse(brush, largestShape);
+							MessageBox.Show("Hình Elip có diện tích lớn nhất.\nDiện tích: " + largestArea.ToString("F2"), "Largest Shape", MessageBoxButtons.OK, MessageBoxIcon.Information);
+						}
+						else if (hcn.Checked)
+						{
+							g.FillRectangle(brush, largestShape);
+							MessageBox.Show("Hình Chữ nhật có diện tích lớn nhất.\nDiện tích: " + largestArea.ToString("F2"), "Largest Shape", MessageBoxButtons.OK, MessageBoxIcon.Information);
+						}
+					}
+				}
+			}
+		}
+
+		private void btnFinish_Click(object sender, EventArgs e)
+		{
+			FillLargestShape();
+		}
+	}
 }

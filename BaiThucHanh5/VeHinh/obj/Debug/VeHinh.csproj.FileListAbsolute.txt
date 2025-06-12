@@ -8,3 +8,4 @@ D:\STUDY\OOP\OOPc\BaiThucHanh5\VeHinh\bin\Debug\VeHinh.pdb
 D:\STUDY\OOP\OOPc\BaiThucHanh5\VeHinh\obj\Debug\VeHinh.form1.resources
 D:\STUDY\OOP\OOPc\BaiThucHanh5\VeHinh\obj\Debug\VeHinh.exe
 D:\STUDY\OOP\OOPc\BaiThucHanh5\VeHinh\obj\Debug\VeHinh.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh5\VeHinh\obj\Debug\VeHinh.exe.config
