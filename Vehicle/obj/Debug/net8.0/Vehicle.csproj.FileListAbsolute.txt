@@ -1,0 +1,15 @@
+D:\STUDY\OOP\OOPc\Vehicle\bin\Debug\net8.0\Vehicle.exe
+D:\STUDY\OOP\OOPc\Vehicle\bin\Debug\net8.0\Vehicle.deps.json
+D:\STUDY\OOP\OOPc\Vehicle\bin\Debug\net8.0\Vehicle.runtimeconfig.json
+D:\STUDY\OOP\OOPc\Vehicle\bin\Debug\net8.0\Vehicle.dll
+D:\STUDY\OOP\OOPc\Vehicle\bin\Debug\net8.0\Vehicle.pdb
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.sourcelink.json
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.dll
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.pdb
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\Vehicle.genruntimeconfig.cache
+D:\STUDY\OOP\OOPc\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll
