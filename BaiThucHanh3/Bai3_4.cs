@@ -7,13 +7,14 @@ namespace BaiThucHanh3
     public class Printer
     {
         public string nhaSx { get; set; }
+        private int _gia;
         public int gia
         {
-            get { return gia; }
+            get { return _gia; }
             set
             {
                 if (value < 0) throw new ArgumentException("Gia khong the nho hon 0");
-                else gia = value;
+                _gia = value;
             }
         }
         public Printer() { }
@@ -95,21 +96,20 @@ namespace BaiThucHanh3
 
             Console.WriteLine("------------------------------------------------------------");
 
-            Console.Write("Nhap vao ten hang may in can loc:");
-            string brand = Console.ReadLine();
-            Console.WriteLine("\n\tDANH SACH DA LOC THEO TEN HANG '{0}'", brand);
-            Console.WriteLine("--------------------------------------------------------------");
-            foreach (Printer p in list)
-            {
-                if (p.nhaSx.Equals(brand))
-                {
-                    p.Xuat();
-                    Console.WriteLine(".............................................................");
+            /*cách khác
+			var new2list = list.OrderBy(x => x.gia).ToList();
+			Console.WriteLine("\n\tGIA CAO NHAT VA THAP NHAT CUA MAY IN");
+			Console.WriteLine("--------------------------------------------------------------");
+			Console.WriteLine("May in co gia cao nhat la: ");
+			new2list[n-1].Xuat();
+			Console.WriteLine("-----------------------------------");
+			Console.WriteLine("May in co gia thap nhat la: ");
+			new2list[0].Xuat();
 
-                }
-            }
+			Console.WriteLine("------------------------------------------------------------");
+            */
 
-            Console.WriteLine("\n\t\tDANH SACH GIA TANG DAN");
+			Console.WriteLine("\n\t\tDANH SACH GIA TANG DAN");
             Console.WriteLine("------------------------------------------------------------");
             newlist.Reverse();
             foreach (Printer p in newlist)
@@ -117,6 +117,22 @@ namespace BaiThucHanh3
                 p.Xuat();
                 Console.WriteLine("...........................................................");
             }
-        }
+
+			Console.WriteLine("------------------------------------------------------------");
+
+			Console.Write("Nhap vao ten hang may in can loc:");
+			string brand = Console.ReadLine().Trim();
+			Console.WriteLine("\n\tDANH SACH DA LOC THEO TEN HANG '{0}'", brand);
+			Console.WriteLine("--------------------------------------------------------------");
+			foreach (Printer p in list)
+			{
+				if (p.nhaSx.Equals(brand))
+				{
+					p.Xuat();
+					Console.WriteLine(".............................................................");
+
+				}
+			}
+		}
     }
 }

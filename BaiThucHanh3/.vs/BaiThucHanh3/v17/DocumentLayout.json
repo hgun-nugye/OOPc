@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|d:\\study\\oop\\oopc\\baithuchanh3\\bai3_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|solutionrelative:bai3_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|d:\\study\\oop\\oopc\\baithuchanh3\\bai3_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|solutionrelative:bai3_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|d:\\study\\oop\\oopc\\baithuchanh3\\bai3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|solutionrelative:bai3_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|d:\\study\\oop\\oopc\\baithuchanh3\\bai3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7930FAF3-2EC0-4CD2-8C98-531541C7716D}|BaiThucHanh3.csproj|solutionrelative:bai3_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -31,12 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bai3_3.cs",
+              "DocumentMoniker": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_3.cs",
+              "RelativeDocumentMoniker": "Bai3_3.cs",
+              "ToolTip": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_3.cs",
+              "RelativeToolTip": "Bai3_3.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:06:44.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai3_2.cs",
+              "DocumentMoniker": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_2.cs",
+              "RelativeDocumentMoniker": "Bai3_2.cs",
+              "ToolTip": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_2.cs",
+              "RelativeToolTip": "Bai3_2.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:06:11.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai3_1.cs",
+              "DocumentMoniker": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_1.cs",
+              "RelativeDocumentMoniker": "Bai3_1.cs",
+              "ToolTip": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_1.cs",
+              "RelativeToolTip": "Bai3_1.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T02:54:44.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Bai3_4.cs",
               "DocumentMoniker": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_4.cs",
               "RelativeDocumentMoniker": "Bai3_4.cs",
               "ToolTip": "D:\\STUDY\\OOP\\OOPc\\BaiThucHanh3\\Bai3_4.cs",
               "RelativeToolTip": "Bai3_4.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowBIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAjwGIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T14:24:33.948Z",
               "EditorCaption": ""

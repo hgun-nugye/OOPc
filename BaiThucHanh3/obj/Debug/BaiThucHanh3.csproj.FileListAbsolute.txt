@@ -12,3 +12,4 @@ D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.csproj.AssemblyReference.c
 D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.csproj.CoreCompileInputs.cache
 D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.exe
 D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.pdb
+D:\STUDY\OOP\OOPc\BaiThucHanh3\obj\Debug\BaiThucHanh3.exe.config
