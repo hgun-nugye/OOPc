@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace KT_CuoiKy
+namespace KT_GiuaKy
 {
      class Program
     {
@@ -50,7 +50,7 @@ namespace KT_CuoiKy
             if (j == 0) Console.WriteLine("Danh sach xe sau xu ly rong!");
             else
             {
-                Console.WriteLine("\tDANH SACH XE CON SAU XU LY:");
+                Console.WriteLine("\tDANH SACH XE CON SAU XU LY");
                 for (int i = 0; i < j; i++)
                 {
                     xeConsNew[i].Xuat();

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KT_CuoiKy
+namespace KT_GiuaKy
 {
     public class XeCon : Xe
     {

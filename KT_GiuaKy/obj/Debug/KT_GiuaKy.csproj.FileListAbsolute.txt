@@ -1,0 +1,8 @@
+D:\STUDY\OOPc\KT_GiuaKy\bin\Debug\KT_CuoiKy.exe.config
+D:\STUDY\OOPc\KT_GiuaKy\bin\Debug\KT_CuoiKy.exe
+D:\STUDY\OOPc\KT_GiuaKy\bin\Debug\KT_CuoiKy.pdb
+D:\STUDY\OOPc\KT_GiuaKy\obj\Debug\KT_GiuaKy.csproj.AssemblyReference.cache
+D:\STUDY\OOPc\KT_GiuaKy\obj\Debug\KT_CuoiKy.exe.config
+D:\STUDY\OOPc\KT_GiuaKy\obj\Debug\KT_GiuaKy.csproj.CoreCompileInputs.cache
+D:\STUDY\OOPc\KT_GiuaKy\obj\Debug\KT_CuoiKy.exe
+D:\STUDY\OOPc\KT_GiuaKy\obj\Debug\KT_CuoiKy.pdb
